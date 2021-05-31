@@ -1,4 +1,4 @@
 name: Personal-Website
 title: null
 plugins:
-  -jemoji
+  - jemoji
