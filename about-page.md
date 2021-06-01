@@ -1,6 +1,6 @@
 # About Me
 
-![Image of Myself](./master/myself2.jpeg)
+![Image of Myself](./image/Myself.jpeg)
 
 My name is Sadjell Mamon. I am a junior Software Engineering major at Quinnipiac University. I am from Haiti and I speak three languages (French, Creole, and English).
 
