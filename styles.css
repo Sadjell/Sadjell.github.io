@@ -46,7 +46,7 @@ body {
 
 .fullName h1 {
     font-size: 70px;
-    color:#fd5e53;
+    color: black;
     font-family: 'Archivo Black', sans-serif;
     
 }
@@ -62,7 +62,7 @@ body {
 }
 
 #changingWord {
-    color: black;
+    color: #c61aff;
     text-align: center;
 }
 
